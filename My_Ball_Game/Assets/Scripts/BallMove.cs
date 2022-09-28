@@ -14,12 +14,6 @@ public class BallMove : MonoBehaviour
         rigBody = GetComponent<Rigidbody>();
 
     }
-
-    private void Update()
-    {
-        
-    }
-
     // Update is called once per frame
     void FixedUpdate()
     {
